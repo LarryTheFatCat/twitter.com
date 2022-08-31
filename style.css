@@ -18,3 +18,16 @@ img {
     width: 1.1cm;
     height: 1.1cm;
 }
+
+h1 {
+    color: white;
+}
+
+.text-big {
+    position: absolute;
+    top: 3cm;
+    left: 950px;
+    transform: scale(1.4, 1);
+    font-size: 60px;
+    font: arial;
+}
