@@ -88,11 +88,13 @@ span {
     width: 8cm;
     height: 1.1cm;
 }
+
 .btn-text {
     position: relative;
     top: -0.1cm;
     font-size: 15px;
 }
+
 .btn-alt:hover {
     background-color: rgba(29, 155, 240, 0.704);
 }
