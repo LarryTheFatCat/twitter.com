@@ -10,3 +10,11 @@ img {
     top: -9px;
     left: -8px;
 }
+
+.bird {
+    position: absolute;
+    top: 1cm;
+    left: 22.96cm;
+    width: 1.1cm;
+    height: 1.1cm;
+}
