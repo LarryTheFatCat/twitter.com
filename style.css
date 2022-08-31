@@ -78,3 +78,21 @@ span {
 .btn-apple:hover {
     background-color: rgba(255, 255, 255, 0.704);
 }
+
+.btn-alt {
+    position: relative;
+    top: -7.3cm;
+    left: 14.5cm;
+    background-color: rgb(29, 155, 240);
+    border-radius: 25px;
+    width: 8cm;
+    height: 1.1cm;
+}
+.btn-text {
+    position: relative;
+    top: -0.1cm;
+    font-size: 15px;
+}
+.btn-alt:hover {
+    background-color: rgba(29, 155, 240, 0.704);
+}
